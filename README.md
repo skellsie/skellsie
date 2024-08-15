@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning ... Java/Rust
 - 💬 Ask me about ... nothing! bug off!
-- ⚡ Fun fact: ... I have 0 clue what I'm doing, and probably messed up this read.me
+- ⚡ Fun fact: ... i'm rlly happy with the lil guy that it assigned to be my pfp
 
 <!--
 **skellsie/skellsie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
