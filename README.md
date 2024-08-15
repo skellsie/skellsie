@@ -1,4 +1,8 @@
-## Hi there 👋
+## founder, ceo, and visionary behind big monkey industries 🐒👨‍💼💰📈
+
+- 🌱 I’m currently learning ... Java/Rust
+- 💬 Ask me about ... nothing! bug off!
+- ⚡ Fun fact: ... I have 0 clue what I'm doing, and probably messed up this read.me
 
 <!--
 **skellsie/skellsie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
